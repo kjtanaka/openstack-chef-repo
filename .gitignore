@@ -1,0 +1,11 @@
+/cookbooks
+*.swp
+.chef/*.pem
+.vagrant
+.cache
+.backup
+.ssh/config
+.ssh/id_*
+default*
+data_bag_key
+Berksfile.lock
