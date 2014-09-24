@@ -1,5 +1,6 @@
 source "http://api.berkshelf.com"
 
+cookbook 'apt'
 cookbook 'mysql'
 cookbook 'database'
 cookbook 'openstack-common', git: 'https://github.com/kjtanaka/cookbook-openstack-common.git'
